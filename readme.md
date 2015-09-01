@@ -1,10 +1,11 @@
-# I do Front-web Design
+# Clean Minimal WP-Api Rest Theme Boilerplate
 [@t0tinspire](https://twitter.com/t0tinspire/) :ear_of_rice: Sergio Forés
 
 ### Goals
-- Deeping more and more everyday on my skills, focus on that.
-- Team colaboration wanted :octocat: Co-Working.
-- Learn english
+- Build a Wordpress theme with WP-Api.
+- Team colaboration wanted :octocat:
+- Plain Javascript, no third part libraries.
+- Scalable, Maintainable.
 
 ### Skills
   - CSS & Html Templating
@@ -15,8 +16,8 @@
 
 ### Workflow
   - [SketchApp](http://bohemiancoding.com/sketch/) UI
-  - [Roots](http://roots.cx/) or [Codekit](https://incident57.com/codekit/) as task managers
-  - [Bower](http://bower.io/) and [Node Package Manager](https://www.npmjs.com/) for Plugins
+  - [Codekit](https://incident57.com/codekit/) as task managers
+  <!-- - [Bower](http://bower.io/) and [Node Package Manager](https://www.npmjs.com/) for Plugins -->
   - [Github](https://github.com/) :octocat: Control version
   - [Github Pages](https://pages.github.com/) and [Netlify.com](Netlify.com) for fast deployment
   - [Wordpress](http://wordpress.org) theme design
